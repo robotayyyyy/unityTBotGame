@@ -1,2 +1,2 @@
 # unityTBotGame
- [archive] simple game by Unty
+ [archive] simple game by Unity

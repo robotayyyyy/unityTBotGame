@@ -11,55 +11,53 @@ Platform assembly: F:\temp\Project\TBot_32Bit\unityTBotGame\Tbot_Data\Managed\Un
 Loading F:\temp\Project\TBot_32Bit\unityTBotGame\Tbot_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: F:\temp\Project\TBot_32Bit\unityTBotGame\Tbot_Data\Managed\Assembly-CSharp.dll (this message is harmless)
 Loading F:\temp\Project\TBot_32Bit\unityTBotGame\Tbot_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-- Completed reload, in  0.048 seconds
+- Completed reload, in  0.050 seconds
 desktop: 1920x1080 59Hz; virtual: 1536x864 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-UnloadTime: 0.714606 ms
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+UnloadTime: 0.375905 ms
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 183.
-Total: 3.620927 ms (FindLiveObjects: 0.028652 ms CreateObjectMapping: 0.022237 ms MarkObjects: 0.298500 ms  DeleteObjects: 2.011246 ms)
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 10.957721 ms (FindLiveObjects: 0.017106 ms CreateObjectMapping: 0.012401 ms MarkObjects: 0.169777 ms  DeleteObjects: 10.033994 ms)
 
-UnloadTime: 0.595291 ms
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+NullReferenceException: Object reference not set to an instance of an object
+  at MObject.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 170.
-Total: 1.181601 ms (FindLiveObjects: 0.020527 ms CreateObjectMapping: 0.017961 ms MarkObjects: 0.219385 ms  DeleteObjects: 0.043192 ms)
+NullReferenceException: Object reference not set to an instance of an object
+  at MObject.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
 
-UnloadTime: 0.698783 ms
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+NullReferenceException: Object reference not set to an instance of an object
+  at MObject.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
 
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 124.
-Total: 1.588726 ms (FindLiveObjects: 0.023948 ms CreateObjectMapping: 0.021810 ms MarkObjects: 0.271986 ms  DeleteObjects: 0.216391 ms)
+NullReferenceException: Object reference not set to an instance of an object
+  at MObject.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
 
-UnloadTime: 0.195436 ms
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+NullReferenceException: Object reference not set to an instance of an object
+  at MObject.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
 
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 209.
-Total: 0.534137 ms (FindLiveObjects: 0.010263 ms CreateObjectMapping: 0.008125 ms MarkObjects: 0.101353 ms  DeleteObjects: 0.003421 ms)
+NullReferenceException: Object reference not set to an instance of an object
+  at MObject.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
 
-UnloadTime: 0.897213 ms
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+NullReferenceException: Object reference not set to an instance of an object
+  at MObject.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
 
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 126.
-Total: 2.006542 ms (FindLiveObjects: 0.025659 ms CreateObjectMapping: 0.022665 ms MarkObjects: 0.257446 ms  DeleteObjects: 0.621378 ms)
-
-UnloadTime: 0.523445 ms
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 184.
-Total: 1.478819 ms (FindLiveObjects: 0.026514 ms CreateObjectMapping: 0.022237 ms MarkObjects: 0.280967 ms  DeleteObjects: 0.008125 ms)
-
-UnloadTime: 0.487950 ms
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 126.
-Total: 1.356083 ms (FindLiveObjects: 0.018389 ms CreateObjectMapping: 0.016678 ms MarkObjects: 0.189877 ms  DeleteObjects: 0.342549 ms)
-
-UnloadTime: 0.539268 ms
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 197.
-Total: 1.607543 ms (FindLiveObjects: 0.027369 ms CreateObjectMapping: 0.022665 ms MarkObjects: 0.287809 ms  DeleteObjects: 0.007697 ms)
+NullReferenceException: Object reference not set to an instance of an object
+  at MObject.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
 

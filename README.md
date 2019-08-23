@@ -9,6 +9,7 @@ clone this repository then seek for Tbot.exe
 
 ![](1.PNG)
 ![](2.PNG)
+![](3.PNG)
 
 ## Key control
 'Left-arrow' : go left <br />

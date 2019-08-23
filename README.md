@@ -11,7 +11,7 @@ clone this repository then seek for Tbot.exe
 ![](2.PNG)
 
 ## Key control
-'Left-arrow' : go left
-'Right-arrow' : go right
-'Up-arrow' : pick the box
-'Down-arrow' : drop the box
+'Left-arrow' : go left <br />
+'Right-arrow' : go right <br />
+'Up-arrow' : pick the box <br />
+'Down-arrow' : drop the box <br />
